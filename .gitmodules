@@ -1,0 +1,3 @@
+[submodule "Vendor/CommonCPP"]
+	path = Vendor/CommonCPP
+	url = https://github.com/AliGholamian-dev/CommonCPP.git
